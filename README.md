@@ -1,0 +1,4 @@
+RatingBar
+=========
+
+Android RatingBar Test
